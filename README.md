@@ -10,8 +10,8 @@ Data Analyst Roadmap for Learning
   - [Linux (LPIC-1)](#linux-lpic-1)
   - [Docker (Mandatory)](#docker-mandatory)
 - [Step 1: IaC (Infrastructure as Code)]
-- []
-- []
-- []
-- []
+- [Step 1:]
+- [Step 1:]
+- [Step 1:]
+- [Step 1:]
  
