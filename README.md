@@ -11,7 +11,7 @@ Data Analyst Roadmap for Learning
   - [Docker (Mandatory)](#docker-mandatory)
 - [Step 1:]
 - [Step 1: Introduction of Data Analyst?] 
-- [Step 1: Big Picture of Data Analyst
+- Step 1: Big Picture of Data Analyst
 - [Step 1:]
 - [Step 1:]
  
