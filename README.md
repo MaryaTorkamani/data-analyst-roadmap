@@ -9,11 +9,12 @@ Data Analyst Roadmap for Learning
 - [Step 0: Basic requirements](#step-0-basic-requirements)
   - [Linux (LPIC-1)](#linux-lpic-1)
   - [Docker (Mandatory)](#docker-mandatory)
-- [Step 1: IaC (Infrastructure as Code)]
 - [Step 1:]
+- [Step 1: Introduction of Data Analyst?] 
 - [Step 1:]
 - [Step 1:]
 - [Step 1:]
  
+
 
  
