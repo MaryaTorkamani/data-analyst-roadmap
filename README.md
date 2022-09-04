@@ -12,7 +12,7 @@ Data Analyst Roadmap for Learning
 - [Step 1:]
 - [Step 1: Introduction of Data Analyst?] 
 - Step 1: Big Picture of Data Analyst
-- [Step 1:]
+- Cycle Of Data Analysis
 - [Step 1:]
  
 
