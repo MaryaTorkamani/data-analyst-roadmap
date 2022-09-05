@@ -13,7 +13,8 @@ Data Analyst Roadmap for Learning
 - [Step 1: Introduction of Data Analyst?] 
 - Step 1: Big Picture of Data Analyst
 - Cycle Of Data Analysis
-- What is the Difference Between AI() and BI()
+- What is the Difference Between AI(Artificial Intelligence) and BI(Business Intelligence)
+
 
 
  
