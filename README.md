@@ -11,7 +11,7 @@ Data Analyst Roadmap for Learning
   - [Docker (Mandatory)](#docker-mandatory)
 - Step 1. Introductions:
 - Introduction of Data Analyst
-- Step 1: Big Picture of Data Analyst
+- Big Picture of Data Analyst
 - Cycle Of Data Analysis
 - What is the Difference Between AI(Artificial Intelligence) and BI(Business Intelligence)
 - Introducing of Data Bases
