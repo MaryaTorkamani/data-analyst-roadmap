@@ -10,7 +10,7 @@ Data Analyst Roadmap for Learning
   - [Linux (LPIC-1)](#linux-lpic-1)
   - [Docker (Mandatory)](#docker-mandatory)
 - Step 1. Introductions:
-- [Step 1: Introduction of Data Analyst?] 
+- Introduction of Data Analyst
 - Step 1: Big Picture of Data Analyst
 - Cycle Of Data Analysis
 - What is the Difference Between AI(Artificial Intelligence) and BI(Business Intelligence)
