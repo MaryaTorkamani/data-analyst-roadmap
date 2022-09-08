@@ -13,9 +13,9 @@ Data Analyst Roadmap for Learning
   - Introduction of Data Analyst
   - Big Picture of Data Analyst
   - Cycle Of Data Analysis
-- What is the Difference Between AI(Artificial Intelligence) and BI(Business Intelligence)
-- Introducing of Data Bases
-- The most recent Data Bases
+  - What is the Difference Between AI(Artificial Intelligence) and BI(Business Intelligence)
+  - Introducing of Data Bases
+  - The most recent Data Bases
 - Step 2: The Situation of Statistics:
 - 
  
