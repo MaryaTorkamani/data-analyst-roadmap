@@ -16,5 +16,6 @@ Data Analyst Roadmap for Learning
 - What is the Difference Between AI(Artificial Intelligence) and BI(Business Intelligence)
 - Introducing of Data Bases
 - The most recent Data Bases
-- Step 2: The Situation of Statistics
+- Step 2: The Situation of Statistics:
+- 
  
