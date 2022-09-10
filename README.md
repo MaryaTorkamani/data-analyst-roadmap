@@ -16,6 +16,7 @@ Data Analyst Roadmap for Learning
   - What is the Difference Between AI(Artificial Intelligence) and BI(Business Intelligence)
   - Introducing of Data Bases
   - The most recent Data Bases
+  - Diffrence Between OLTP and OLAP
 - Step 2: The Situation of Statistics:
 - 
  
