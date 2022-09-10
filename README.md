@@ -18,6 +18,8 @@ Data Analyst Roadmap for Learning
   - The most recent Data Bases
   - Diffrence Between OLTP and OLAP
 - Step 2: The Situation of Statistics:
-  -Introduction to Probability
+  - Introduction to Probability
+  - Statistics Fundamentals
+  - 
 - 
  
