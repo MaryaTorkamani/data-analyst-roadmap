@@ -20,6 +20,6 @@ Data Analyst Roadmap for Learning
 - Step 2: The Situation of Statistics:
   - Introduction to Probability
   - Statistics Fundamentals
-  - 
+  - Hypothesis Testing
 - 
  
